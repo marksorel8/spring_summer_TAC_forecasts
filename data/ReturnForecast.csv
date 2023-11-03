@@ -1,0 +1,698 @@
+YEAR,ORIGIN_NAME,RUN_TYPE_NAME,SPECIES_NAME,RETURNS_FORECASTS_STOCK_NAME,IS_UPRIVER,FISH_ORIGIN_NAME,FIN_CLIP_NAME,COUNT,RETURNS_FORECASTS_COUNT_TYPE_NAME,RETURNS_FORECASTS_SOURCE_NAME,COMMENT,CREATED_BY,CREATED_DATETIME,LAST_MODIFIED_DATETIME,LAST_MODIFIED_BY
+1980,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,7128,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,57692,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,6044,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,67401,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,6314,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,77246,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,7292,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,62912,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,6706,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,52357,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,10290,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,92284,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,7903,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,128314,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,8777,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,110772,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,7503,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,106003,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,7455,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,90031,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,4437,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,105715,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2437,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,64479,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,4261,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,95691,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,4050,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,119963,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,1044,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,24095,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,224,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,12792,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,575,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,55552,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,1222,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,124321,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,547,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,44308,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,401,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,43067,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,1367,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,186715,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,6252,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,440336,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2992,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,335214,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2198,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,242605,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2308,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,221675,Actual,TAC,"Observered Jan 1- Jun 15, but forecasts were made on old Jan 1 - May 31 mgmt period, so not comparable.",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2807,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,106911,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,1462,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,132583,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,458,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,86247,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,829,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,178629,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,1086,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,169296,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,3101,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,315345,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2640,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,221158,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,5374,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,203090,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,3090,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,123136,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,5683,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,242577,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,5800,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,289000,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,1700,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,187800,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2514,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,115821,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,1977,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,115081,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,1668,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,73101,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2189,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,81300,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,3190,Actual,TAC,,ASMITH,12/21/2021 16:06,5/6/2022 18:21,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,91756,Actual,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,22498,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,18746,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,14369,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,13145,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,18765,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,18522,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,18752,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,22715,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,22720,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,22201,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,18794,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,14323,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,9428,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,14021,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,14691,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,12455,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,12080,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,17709,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,15536,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,21867,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,22595,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,52960,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,89524,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,83058,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,65623,Actual,,Actual: June 16 - July 31,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,60272,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,77573,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,37035,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,55532,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,53881,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,72346,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,80574,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,58300,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,67603,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,78304,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,126900,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,91000,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,68204,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,42120,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,34619,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,65494,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,56800,Actual,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,31648,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,108,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,27130,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,35120,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,236,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,20681,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,22169,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,261,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,27889,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,31554,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,241,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,68833,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,112165,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,148,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,49573,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,104090,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,59,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,96575,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,40322,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,28,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,19613,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,84692,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,55,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,60799,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,69036,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,45,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,30676,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,20391,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,4,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,27080,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,8897,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,1,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,40856,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,33798,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,10,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,42676,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,52038,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,2,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,32960,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,39173,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,18,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,52519,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,1816,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,3,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,11039,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,5011,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,5,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,4646,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,21456,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,3,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,9437,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,34278,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,18,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,13174,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,7372,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,4,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,5844,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,13288,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,20,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,4570,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,69714,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,348,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,24409,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,82939,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,49,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,39363,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,12630,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,77,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,37777,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,33449,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,28,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,5898,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,96717,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,117,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,33294,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,59728,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,20,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,17629,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,25643,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,79,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,11345,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,21679,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,58,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,4335,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,182409,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,982,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,31011,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,143559,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,1623,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,33777,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,336217,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,2593,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,49048,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,158254,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,1918,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,27135,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,462222,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,512,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,58225,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,155174,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,1137,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,29847,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,523735,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,2925,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,118480,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,370900,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,1743,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,139900,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,300,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,216034,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,944,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,74416,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,3837,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,66,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,52272,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,445,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,34861,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,619,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,50,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,189644,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,297,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,20974,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,455,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,200,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,54300,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,342,Actual,CRITFC,"LGR passage was 81 fish, but most genetically assigned to either OkaNULLgan or WeNULLtchee",ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,7900,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,600,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,273667,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,734,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,56111,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,11790,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,105493,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,953,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,41219,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,3531,Actual,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,1300,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,3400,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,6200,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,254100,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,1600,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,88400,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,1200,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,78500,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2900,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,269300,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2700,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,298900,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,5700,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,470000,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2000,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,198400,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2800,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,314200,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,1600,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,141400,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,3700,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,227000,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,4500,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,232500,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,5000,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,188800,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,3300,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,160400,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,3400,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,166700,Predicted,TAC,Jan 1- Jun 15,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2100,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,99300,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2300,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,81700,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2200,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,75200,Predicted,TAC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,,Predicted,,Forecast: June 1 - July 31. Not same period as actual returns,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,62400,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,49000,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,45600,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,52000,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,70700,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,88800,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,91100,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,91200,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,73500,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,67500,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,73000,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,93300,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,63100,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,67300,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,36300,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,38300,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,78800,Predicted,,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1980,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1981,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1982,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1983,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1984,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1985,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1986,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1987,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1988,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1989,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1990,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1991,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1992,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1993,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1994,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1995,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1996,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1997,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1998,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+1999,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2000,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2001,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2002,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,11000,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,80,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,11000,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2003,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,53000,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,154,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,27500,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2004,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,40300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,66,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,30400,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2005,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,23300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,21,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,7800,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2006,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,20700,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,6600,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2007,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,61200,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,700,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,13700,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2008,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,164900,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,600,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,18300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2009,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,110300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,600,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,14300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2010,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,126800,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,2100,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,33000,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2011,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,431300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,1900,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,28800,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2012,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,134500,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,1250,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,44600,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2013,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,282500,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,1200,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,63400,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2014,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,285500,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,1800,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,106700,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2015,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,41700,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,2100,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,57800,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2016,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,1000,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,137900,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,1400,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,54200,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2017,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,4000,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,50,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,72600,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,600,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,25700,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2018,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,50,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,100,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,74500,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,200,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,18300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2019,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,1300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,201800,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,2300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,39400,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2020,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,2500,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,100,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,127300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,700,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,27300,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2021,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,200,Predicted,CRITFC,,ASMITH,12/21/2021 16:06,4/22/2022 9:02,Timothy.Sippel@dfw.wa.gov
+2022,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,2800,Predicted,TAC,,Timothy.Sippel@dfw.wa.gov,4/22/2022 9:03,4/22/2022 9:03,Timothy.Sippel@dfw.wa.gov
+2022,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,122900,Predicted,TAC,,Timothy.Sippel@dfw.wa.gov,4/22/2022 9:03,4/22/2022 9:03,Timothy.Sippel@dfw.wa.gov
+2022,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,57500,Predicted,TAC,,Timothy.Sippel@dfw.wa.gov,4/22/2022 9:03,4/22/2022 9:03,Timothy.Sippel@dfw.wa.gov
+2022,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,100,Predicted,CRITFC,,Timothy.Sippel@dfw.wa.gov,4/22/2022 9:03,4/22/2022 9:03,Timothy.Sippel@dfw.wa.gov
+2022,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,175700,Predicted,CRITFC,,Timothy.Sippel@dfw.wa.gov,4/22/2022 9:03,4/22/2022 9:03,Timothy.Sippel@dfw.wa.gov
+2022,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,200,Predicted,CRITFC,,Timothy.Sippel@dfw.wa.gov,4/22/2022 9:03,4/22/2022 9:03,Timothy.Sippel@dfw.wa.gov
+2022,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,19200,Predicted,CRITFC,,Timothy.Sippel@dfw.wa.gov,4/22/2022 9:03,4/22/2022 9:03,Timothy.Sippel@dfw.wa.gov
+2022,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,3500,Predicted,CRITFC,,Timothy.Sippel@dfw.wa.gov,4/22/2022 9:03,4/22/2022 9:03,Timothy.Sippel@dfw.wa.gov
+2022,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,56346,Predicted,PFMC,Coweeman_Chin2522_Final.xlsx,Timothy.Sippel@dfw.wa.gov,4/22/2022 9:03,4/22/2022 9:03,Timothy.Sippel@dfw.wa.gov
+2023,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,5800,Predicted,TAC,,mark.sorel@dfw.wa.gov,3/8/2023 12:06,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2023,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,198600,Predicted,TAC,,mark.sorel@dfw.wa.gov,3/8/2023 12:06,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2022,Columbia River Mouth,Spring,Chinook,Upper Columbia Spring Chinook,TRUE,Wild,,5264,Actual,TAC,,mark.sorel@dfw.wa.gov,3/8/2023 12:06,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2022,Columbia River Mouth,Spring,Chinook,Upriver Spring Chinook,TRUE,Total,,185209,Actual,TAC,,mark.sorel@dfw.wa.gov,3/8/2023 12:06,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2023,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,84800,Predicted,TAC,,mark.sorel@dfw.wa.gov,3/8/2023 14:11,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2023,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,100,Predicted,CRITFC,,mark.sorel@dfw.wa.gov,3/8/2023 14:11,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2023,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,187400,Predicted,CRITFC,,mark.sorel@dfw.wa.gov,3/8/2023 14:11,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2023,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,3600,Predicted,CRITFC,,mark.sorel@dfw.wa.gov,3/8/2023 14:11,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2023,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,44300,Predicted,CRITFC,,mark.sorel@dfw.wa.gov,3/8/2023 14:11,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2023,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,100,Predicted,CRITFC,,mark.sorel@dfw.wa.gov,3/8/2023 14:11,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2022,Columbia River Mouth,Summer,Chinook,Upper Columbia Summer Chinook,TRUE,Total,,78494,Actual,,,mark.sorel@dfw.wa.gov,3/8/2023 14:11,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2022,Columbia River Mouth,,Sockeye,Deschutes River,TRUE,Total,,35,Actual,CRITFC,,mark.sorel@dfw.wa.gov,3/8/2023 14:11,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2022,Columbia River Mouth,,Sockeye,Okanagan River,TRUE,Total,,513317,Actual,CRITFC,,mark.sorel@dfw.wa.gov,3/8/2023 14:11,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2022,Columbia River Mouth,,Sockeye,Snake River,TRUE,Total,,2329,Actual,CRITFC,,mark.sorel@dfw.wa.gov,3/8/2023 14:11,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2022,Columbia River Mouth,,Sockeye,Wenatchee River,TRUE,Total,,147473,Actual,CRITFC,,mark.sorel@dfw.wa.gov,3/8/2023 14:11,3/8/2023 14:20,mark.sorel@dfw.wa.gov
+2022,Columbia River Mouth,,Sockeye,Yakima River,TRUE,Total,,157,Actual,CRITFC,,mark.sorel@dfw.wa.gov,3/8/2023 14:11,3/8/2023 14:20,mark.sorel@dfw.wa.gov
