@@ -1,6 +1,6 @@
 ---
-title: "OPI Forecasts"
-author: Thomas Buehrens, WDFW (tbuehrens@dfw.wa.gov), Mark Sorel, WDFW (mark.sorel@dfw.wa.gov), Cassandra Leeman, ODFW (cassandra.r.leeman@odfw.oregon.gov), and Shannon Conley, WDFW (shannon.conley@dfw.wa.gov)
+title: "TAC spring summer Forecasts"
+author: WDFW
 output:
   html_document:
     code_folding: hide
@@ -43,10 +43,20 @@ Last Updated `r format(Sys.time(), '%m/%d/%Y')`.
 
 ------------------------------------------------------------------------
 
+
+# Stocks
+
+TAC estimates of river mouth run size from run reconstruction for the folowing stocks:
+ - upriver spring Chinook 
+ - upper Columbia wild spring Chinook?
+ - Sockeye 
+ - Summer Chinook
+
+
 # Overview
 
 This report details the process of fitting Auto-Regressive Integrated
-Moving Average (ARIMA) models to forecast OPI Coho salmon runsize. The
+Moving Average (ARIMA) models to salmon runsize. The
 model functions are flexibly configured to allow the user to supply
 total runsize data and a series of covariates.
 
