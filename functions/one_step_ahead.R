@@ -3,27 +3,12 @@ one_step_ahead<-function(series,
                             leave_yrs,
                             TY_ensemble,
                             covariates,
-                            first_forecast_period,
-                            plot_results,
-                            write_model_summaries,
-                            forecast_period_start_m, #inclusive
-                            forecast_period_start_d, #inclusive
-                            obs_period_2,
-                            p1_covariates_only,
-                            stack_metric,
-                            k
+                            first_forecast_period
+                          
                             ){
   
   start<-Sys.time()
-  
-  if(write_model_summaries ==T){
-    write.table(NULL,"summary.txt")
-  }
-  
-  
-  
 
- 
   
   series<-series%>%
     ungroup()%>%
@@ -63,8 +48,18 @@ one_step_ahead<-function(series,
         dplyr::select(all_of(covariates[[c]]))%>%
         as.matrix()
       
-      temp<-NULL
-      temp<-arima_forecast(tdat,xreg,xreg_pred,last_train_yr,first_forecast_period)
+      temp<-list(
+        pred=NA,
+       CI=tibble(`Lo 50`=NA,
+                 `Hi 50`=NA,
+                 `Lo 95`=NA,
+                 `Hi 95`=NA,
+                 year=last_train_yr+1,
+                 period=1),
+       arma=NA,
+       aicc=NA
+      )
+      try(temp<-arima_forecast(tdat,xreg,xreg_pred,last_train_yr,first_forecast_period))
       pred<-temp$pred %>% tail(1)
       CI<-temp$CI
 
