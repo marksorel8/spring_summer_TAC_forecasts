@@ -1,3 +1,18 @@
+
+
+# Convert a brood table to a return table
+brood_to_return <- function(bt){
+  bt %>% group_by(Stock) %>% 
+    pivot_longer(cols=contains("Age"), names_to="AgeNames", values_to="Return") %>% 
+    mutate(Age=parse_number(AgeNames),
+           ReturnYear=BroodYear+Age) %>% 
+    filter(!is.na(Return)) %>% 
+    dplyr::select(Stock, ReturnYear, AgeNames, Return) %>% 
+    pivot_wider(names_from=AgeNames, values_from=Return) 
+}
+
+
+#scarpe covariates and munge data
 make_dat<-function(file_path=NULL,dat1,redo=TRUE){
   
   
