@@ -37,6 +37,7 @@ make_dat<-function(file_path=NULL,dat1,redo=TRUE){
       ,"lag2_PC2"
       ,"lag2_sp_phys_trans"
       ,"pink_ind"
+      ,"lag1_log_socksmolt"
     ) 
     
     
@@ -134,6 +135,12 @@ make_dat<-function(file_path=NULL,dat1,redo=TRUE){
       bind_cols(data.frame(SAR2=c(gam(cbind(ocean2Count,juvCount-ocean2Count)~s(OutmigrationYear,k=(dim(PIT)[1]-1),m=1,bs="ps"),family=binomial,data=PIT)$fitted,NA)))%>%
       mutate(lag1_log_SAR1 = log(SAR1),lag1_log_SAR2=lag(log(SAR2),1))%>%
       dplyr::select(year=Year,lag1_log_SAR1,lag1_log_SAR2)
+    
+    
+#=========================================================
+# get smolt index
+#=========================================================
+smolt_sock<-read_csv("https://www.cbr.washington.edu/dart/cs/php/rpt/mg.php?sc=1&mgconfig=smolt&outputFormat=csvSingle&year%5B%5D=2023&year%5B%5D=2022&year%5B%5D=2021&year%5B%5D=2020&year%5B%5D=2019&year%5B%5D=2018&year%5B%5D=2017&year%5B%5D=2016&year%5B%5D=2015&year%5B%5D=2014&year%5B%5D=2013&year%5B%5D=2012&year%5B%5D=2011&year%5B%5D=2010&year%5B%5D=2009&year%5B%5D=2008&year%5B%5D=2007&year%5B%5D=2006&year%5B%5D=2005&year%5B%5D=2004&year%5B%5D=2003&year%5B%5D=2002&year%5B%5D=2001&year%5B%5D=2000&year%5B%5D=1999&year%5B%5D=1998&year%5B%5D=1997&year%5B%5D=1996&year%5B%5D=1995&year%5B%5D=1994&year%5B%5D=1993&year%5B%5D=1992&year%5B%5D=1991&year%5B%5D=1990&year%5B%5D=1989&year%5B%5D=1988&year%5B%5D=1987&year%5B%5D=1986&year%5B%5D=1985&loc%5B%5D=BON&ftype%5B%5D=Sock&data%5B%5D=&startdate=4%2F1&enddate=6%2F30&sumAttribute=none&cumAttribute%5B%5D=Smolt+Index&consolidate=1&zeros=1&grid=1&y1min=0&y1max=&y2min=&y2max=&size=large") %>% filter(`mm-dd`=="6-30") %>% dplyr::select(year,smolt_sock="value") %>% mutate(across(year,as.numeric))
     #================================================================
     dat<-dat1%>%
       ungroup %>% 
@@ -144,6 +151,7 @@ make_dat<-function(file_path=NULL,dat1,redo=TRUE){
       left_join(enso)%>%
       left_join(ssta)%>%
       left_join(PIT)%>%
+      left_join(smolt_sock)%>%
       # left_join(OCN)%>%
       # dplyr::rename(lag1_JackOPI = lagJackOPI,
       #               lag1_SmAdj = lagSmAdj
@@ -161,7 +169,8 @@ make_dat<-function(file_path=NULL,dat1,redo=TRUE){
              lag2_NPGO = lag(c(scale(NPGO)),2),
              lag1_PDO = lag(c(scale(PDO))),
              lag2_PDO = lag(c(scale(PDO)),2),
-             pink_ind = ifelse(year>1999 & year%%2==0,0,1)
+             pink_ind = ifelse(year>1999 & year%%2==0,0,1),
+             lag1_log_socksmolt=lag(log(smolt_sock))
       )%>%
       ungroup()%>%
       dplyr::select(year,species,period,abundance,all_of(unique(unlist(covariates))))%>%
